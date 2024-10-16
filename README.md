@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Haaid Razi Khan. I'm an AI Developer focusing on AI & Task Automation looking forward to being an innovator in the future of virtual technology.
 - LinkedIn : Haaid Razi Khan. Instagram : haaidrazikhann
 - Other Interests : Football, Reading.
+- Additional Courses : Cloud Native GenAI Engineering @ PIAIC
